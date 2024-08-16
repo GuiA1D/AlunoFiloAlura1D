@@ -1,6 +1,6 @@
 Bem Vindo ao meu INCRIVEL perfil!!!
 
-Meu nome é Guilherme Alves Araujo
+Meu nome é **Guilherme Alves Araujo**
 
   Estudando ALURA
   Estou desenvolvendo meu conhecimento na linguagem JavaScript
@@ -10,3 +10,4 @@ Meu nome é Guilherme Alves Araujo
   00001118660971sp@.al.educacao.sp.gov.br
   ou
   guilherme.sao08@gmail.com# AlunoFiloAlura1D
+  
